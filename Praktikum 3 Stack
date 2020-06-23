@@ -1,4 +1,4 @@
-package demostack_pushpopstring;
+package demostack_popstring;
 
 import java.util.*;
 
